@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "644714414668",
+    "project_id": "teknofestc1-67d9e",
+    "storage_bucket": "teknofestc1-67d9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644714414668:android:a0ee28bfef66ec90fceae9",
+        "android_client_info": {
+          "package_name": "com.example.teknofest_c1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644714414668-ot3rcm8fv335cdi2t6huhl4ie3kbqsee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBddQrPRESxUXKlPYTXp_jmXfdwR_cnd_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644714414668-ot3rcm8fv335cdi2t6huhl4ie3kbqsee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
